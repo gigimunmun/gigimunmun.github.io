@@ -1,0 +1,59 @@
+h2{
+    color:rgb(249, 105, 105);
+    background-color: antiquewhite;
+    letter-spacing: 35px;
+    line-height: 85px;
+    font-weight: 400;
+    text-shadow: 3px 1px 0.5px black;
+    border: 25px solid thistle;
+    padding: 30px;
+    font-weight: 300;
+}
+
+.something{
+    color:rgb(43, 77, 9)
+}
+
+.bigsize{
+    font-size: 40px;
+    text-underline-offset: center;
+}
+
+#aaa{
+    background-color: rgb(209, 209, 231);
+}
+
+ul{
+    list-style-type: square;
+}
+
+ol{
+    list-style-type: none;
+}
+
+.gigidiv{
+    background-color: rgb(233, 144, 243);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    border: 3px solid red;
+}
+.gigi2div{
+    background-color: rgba(69, 129, 233, 0.52);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    border: 3px solid rgb(75, 192, 98);  
+}
+.rosephoto{
+    border-radius: 15px;
+    border: 3px solid red;
+}
+.rosephoto2{
+    border-radius: 15px;
+    border: 5px solid rgb(41, 190, 141);
+}
+.rosephoto3{
+    border-radius: 15px;
+    border: 9px solid rgb(202, 37, 228);
+}
